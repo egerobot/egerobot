@@ -56,7 +56,7 @@ EGEROBOT builds industrial automation and occupational health and safety softwar
 |---|---|---|
 | **Orvisign** — E-signature | Sign PDF, XML and any file with your qualified e-signature card. Your private key never leaves your card. | [orvisign.com](https://orvisign.com/en/index.html) · [GitHub](https://github.com/egerobot/orvisign-releases) |
 | **KeeDesk** — Remote Desktop | A remote desktop app for Mac and Windows: connect to another computer, see and control its screen, chat and move files between both sides. | [keedesk.com](https://keedesk.com/en/index.html) · [GitHub](https://github.com/egerobot/keedesk-releases) |
-| **Fispera** — Invoice & Books | Invoices, expenses, customers and cash in one ledger — and a cash position that shows where the money actually is. | [fispera.com](https://www.fispera.com/en/index.html) · [GitHub](https://github.com/egerobot/fispera-e-fatura) |
+| **Fispera** — Invoice & Books | Invoices, expenses, customers and cash in one ledger — and a cash position that shows where the money actually is. | [fispera.com](https://www.fispera.com/en/index.html) · [GitHub](https://github.com/egerobot/fispera) |
 | **Apartella** — Building Manager | One place for announcements, dues, expenses and resident requests — instead of a chat group nobody can search. | [apartella.com](https://www.apartella.com/en/index.html) |
 | **Meetgenda** — Meeting Minutes | A demo board to practise on, guided tours, and a decision register that tells you which resolutions are still open. | [App Store](https://apps.apple.com/app/id6814776814) |
 | **Regulide** — GDPR & KVKK Guide | From the processing inventory to the notice, the request and the breach: each obligation shown with its article, each deadline counted. | iPhone · iPad |
