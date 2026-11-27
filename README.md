@@ -4,7 +4,7 @@
 
 EGEROBOT builds industrial automation and occupational health and safety software. This page lists our products, with the place you can try or download each one.
 
-[egerobot.com](https://egerobot.com/en) · [Mobile apps — moberium.com](https://moberium.com/en/)
+[egerobot.com](https://egerobot.com/en) · [Mobile apps — moberium.com](https://moberium.com/en/) · [moberium on GitHub](https://github.com/egerobot/moberium)
 
 ---
 
@@ -12,7 +12,7 @@ EGEROBOT builds industrial automation and occupational health and safety softwar
 
 | Product | What it does | Where |
 |---|---|---|
-| **Optifora** — OHS Management | Risk assessments, permits, incidents, inspections and training in one record, and every document can be verified later from its QR code. | [optifora.com](https://www.optifora.com/en/index.html) |
+| **Optifora** — OHS Management | Risk assessments, permits, incidents, inspections and training in one record, and every document can be verified later from its QR code. | [optifora.com](https://www.optifora.com/en/index.html) · [GitHub](https://github.com/egerobot/optifora-isg) |
 | **OhseHub** — OHS professional network | Share knowledge in a professional feed and topic Areas, find OHS jobs and services, and earn a verified badge for your certificate. Free for OHS professionals. | [ohsehub.com](https://www.ohsehub.com/en/index.html) |
 | **Educerra** — Staff Training | Assign the training the law requires, prove it was done, and see what is overdue — from one dashboard. | [educerra.com](https://educerra.com/en/) |
 | **Nomentra** — ADR Dangerous Goods | Search by UN number for the full ADR Table A record: class, labels, packing group, tunnel restriction code. Also the ADR library and response cards. Works offline. | [App Store](https://apps.apple.com/app/id6821730016) |
@@ -56,7 +56,7 @@ EGEROBOT builds industrial automation and occupational health and safety softwar
 |---|---|---|
 | **Orvisign** — E-signature | Sign PDF, XML and any file with your qualified e-signature card. Your private key never leaves your card. | [orvisign.com](https://orvisign.com/en/index.html) · [GitHub](https://github.com/egerobot/orvisign-releases) |
 | **KeeDesk** — Remote Desktop | A remote desktop app for Mac: connect to another computer, see and control its screen, chat and move files between both sides. | [keedesk.com](https://keedesk.com/en/index.html) · [GitHub](https://github.com/egerobot/keedesk-releases) |
-| **Fispera** — Invoice & Books | Invoices, expenses, customers and cash in one ledger — and a cash position that shows where the money actually is. | [fispera.com](https://www.fispera.com/en/index.html) |
+| **Fispera** — Invoice & Books | Invoices, expenses, customers and cash in one ledger — and a cash position that shows where the money actually is. | [fispera.com](https://www.fispera.com/en/index.html) · [GitHub](https://github.com/egerobot/fispera-e-fatura) |
 | **Apartella** — Building Manager | One place for announcements, dues, expenses and resident requests — instead of a chat group nobody can search. | [apartella.com](https://www.apartella.com/en/index.html) |
 | **Meetgenda** — Meeting Minutes | A demo board to practise on, guided tours, and a decision register that tells you which resolutions are still open. | [App Store](https://apps.apple.com/app/id6814776814) |
 | **Regulide** — GDPR & KVKK Guide | From the processing inventory to the notice, the request and the breach: each obligation shown with its article, each deadline counted. | iPhone · iPad |
@@ -65,7 +65,7 @@ EGEROBOT builds industrial automation and occupational health and safety softwar
 
 | Product | What it does | Where |
 |---|---|---|
-| **Linga Chat** — Language Exchange | Language exchange & chat: meet new people, learn languages, play games. | [lingachat.com](https://www.lingachat.com/en/index.html) · [App Store](https://apps.apple.com/app/id6785977344) |
+| **Linga Chat** — Language Exchange | Language exchange & chat: meet new people, learn languages, play games. | [lingachat.com](https://www.lingachat.com/en/index.html) · [Mac App Store](https://apps.apple.com/app/id6785977344) · [Google Play](https://play.google.com/store/apps/details?id=com.egerobot.applc) |
 | **Pray Assist** — Prayer & Quran | Prayer times, qibla, the Qur'an and an honest record of what you have prayed — in one place. | [prayassist.com](https://www.prayassist.com/en/index.html) |
 | **Nikah Talk** — Muslim Marriage | For people who are looking for a spouse, not a pastime — with the knowledge that comes before the nikah. | [nikahtalk.com](https://www.nikahtalk.com/en/index.html) |
 | **Pet in Chat** — Pet Owners | A place for the people who talk about their animals all day. Post, ask, answer, and find owners near you. | [petinchat.com](https://www.petinchat.com/en/index.html) |
@@ -93,4 +93,4 @@ EGEROBOT endüstriyel otomasyon ve iş sağlığı ve güvenliği yazılımları
 - **Ön muhasebe:** [Fispera](https://www.fispera.com/tr/index.html) — fatura, gider, cari ve kasa tek defterde
 - **Site yönetimi:** [Apartella](https://www.apartella.com/tr/index.html) — duyuru, aidat, gider ve sakin talepleri tek yerde
 - **KVKK ve toplantı:** KVKK ve GDPR rehberi (Regulide) · toplantı tutanağı ve karar defteri ([Meetgenda](https://apps.apple.com/app/id6814776814))
-- **Mobil uygulamalar:** [Moberium](https://moberium.com/tr/) — [Linga Chat](https://apps.apple.com/app/id6785977344), Pray Assist, Nikah Talk, Pet in Chat, CodexFan, BornSaga, Habit Pen, Spiruta, [Caffeine Pulse](https://apps.apple.com/app/id6804996053), Water Grind, Okeboard
+- **Mobil uygulamalar:** [Moberium](https://moberium.com/tr/) — [Linga Chat](https://play.google.com/store/apps/details?id=com.egerobot.applc), Pray Assist, Nikah Talk, Pet in Chat, CodexFan, BornSaga, Habit Pen, Spiruta, [Caffeine Pulse](https://apps.apple.com/app/id6804996053), Water Grind, Okeboard
