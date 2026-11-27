@@ -48,7 +48,7 @@ EGEROBOT builds industrial automation and occupational health and safety softwar
 | **Proximun** — Asset Tracking | Who is where, for how long, and are they allowed to be there? Zone breaches become an alert the moment they happen. | [proximun.com](https://www.proximun.com/en/index.html) |
 | **TurniGate** — School Gate Access | Who is in the building right now, who has not arrived, and where everyone is when the alarm sounds, from the turnstile your school already has. | [turnigate.com](https://www.turnigate.com/en/index.html) |
 | **Agrowen** — Feed mill production | Runs the whole production process of a feed mill on one record: formulation, silo and stock, intake and laboratory, production, traceability and reporting. | — |
-| **codelob** — Standards Reference API | The reference catalogue behind our apps: international classification, code and reference tables in one place, each with the version actually in force — served over an API. | [codelob.com](https://codelob.com/en/index.html) · [GitHub](https://github.com/egerobot/codelob) |
+| **codelob** — Standards Reference API | The reference catalogue behind our apps: international classification, code and reference tables in one place, each with the version actually in force — served over an API. | [codelob.com](https://codelob.com/en/index.html) |
 
 ## Business and desktop
 
